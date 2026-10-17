@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://babamosie-resume-maker.babamosie.workers.dev/sitemap.xml
