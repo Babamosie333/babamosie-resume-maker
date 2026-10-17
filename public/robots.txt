@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://babamosie-resume-maker.babamosie.workers.dev/sitemap.xml
+Sitemap: https://babamosie-resume-maker.vikramsingh14052006.workers.dev/sitemap.xml
